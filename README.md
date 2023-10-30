@@ -43,6 +43,6 @@
 
 ###
 
-[![@ytallocesar2022's Holopin board](https://holopin.io/api/user/board?user=ytallocesar2022)](https://holopin.io/@ytallocesar2022)
+[![An image of @ytallocesar2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ytallocesar2022)](https://holopin.io/@ytallocesar2022)
 
 ###
