@@ -1,4 +1,4 @@
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&width=150%&color=FF0000&fontColor=ffffff&height=300&section=header&text=Ytallo%20César&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer&descAlignY=61&descAlign=52" />
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&width=150%&color=FF0000&fontColor=ffffff&height=300&section=header&text=Ytallo%20César&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tech%20Manager&descAlignY=61&descAlign=52" />
 
 ###
 <!-- 
